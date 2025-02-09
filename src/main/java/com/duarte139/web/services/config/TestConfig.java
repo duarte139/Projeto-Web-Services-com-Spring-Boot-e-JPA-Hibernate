@@ -8,7 +8,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import com.duarte139.web.services.entity.User;
+import com.duarte139.web.services.entities.User;
 import com.duarte139.web.services.repositories.UserRepository;
 
 @Configuration
